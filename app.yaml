@@ -1,0 +1,4 @@
+app:
+  type: streamlit
+  entry_point: app.py
+  runtime: python3
